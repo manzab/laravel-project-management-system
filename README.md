@@ -5,7 +5,7 @@ BIT Sprint 5. Task: create projects management system based on two relations bas
 
 - Clone repository to `www` folder of AMPPS  
 ![image](https://user-images.githubusercontent.com/59610142/107220144-ada68f00-6a1a-11eb-8d69-ddbab463d86a.png)  
-- Run these commands on terminal:
+- Run these commands in `sprint5` folder on terminal:
 ```
 composer install
 npm install
