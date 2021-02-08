@@ -18,4 +18,4 @@ php artisan key:generate
 php artisan migrate:refresh --seed 
 ```
 - Enter localhost/sprint5 address to browser
-- Register new user or login with  email: admin@example.com/ password: admin123 to see content.
+- Register as new user and login with your credentials to see content.
