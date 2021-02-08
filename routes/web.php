@@ -21,6 +21,7 @@ use Illuminate\Support\Facades\Auth;
 
 
 Route::group(['prefix' => '/sprint5'], function () {
+    
     Auth::routes();
     Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('index');
     
