@@ -13,7 +13,7 @@ class EmployeeSeeder extends Seeder
      */
     public function run()
     {
-        
+
         $emp1 = new \App\Models\Employee();
         $emp1->name = "Jonas";
         $emp1->project_id = 1;
@@ -23,6 +23,5 @@ class EmployeeSeeder extends Seeder
         $emp2->name = "Petras";
         $emp2->project_id = 1;
         $emp2->save();
-
     }
 }
